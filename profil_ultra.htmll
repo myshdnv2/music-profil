@@ -1874,7 +1874,7 @@ setInterval(()=>{
 },4000);
 </script>
 <audio id="djKeong" loop>
-  <source src="https://raw.githubusercontent.com/myshdnv2/dj/main/dj/keong.mp3" type="audio/mpeg">
+  <source src="https://raw.githubusercontent.com/myshdnv2/dj/main/dj/keong.mp3"
   Browser kamu tidak mendukung audio.
 </audio>
 <script>
